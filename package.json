@@ -1,0 +1,19 @@
+{
+  "name": "kdniao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "mengkeys",
+    "url": "https://github.com/mengkeys",
+    "email": "mengkeys@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mengkeys/kdniao.git"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.0"
+  }
+}
