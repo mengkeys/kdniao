@@ -1,6 +1,6 @@
 # [快递鸟](http://www.kdniao.com) NodeJS 非官方模块
 
-[![npm package](https://nodei.co/npm/kdniao.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/kdniao/)
+[![npm package](https://nodei.co/npm/kdniao-node.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/kdniao-node/)
 
 
 ## 链接
@@ -15,9 +15,9 @@ npm install kdniao -S
 
 ## 使用
 ```js
-const KDNiaoService = require('kdniao');
+const KDNiao = require('kdniao-node');
 
-const client = new KDNiaoService({
+const client = new KDNiao({
     EBusinessID: 'xxx',
     AppKey: 'xxx',
     sandbox: true,

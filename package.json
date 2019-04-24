@@ -1,6 +1,6 @@
 {
-  "name": "kdniao",
-  "version": "1.0.0",
+  "name": "kdniao-node",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "author": {
