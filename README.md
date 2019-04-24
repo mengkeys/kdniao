@@ -1,6 +1,6 @@
 # [快递鸟](http://www.kdniao.com) NodeJS 非官方模块
 
-[![npm package](https://nodei.co/npm/wechat-message-client.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/wechat-message-client/)
+[![npm package](https://nodei.co/npm/kdniao.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/kdniao/)
 
 
 ## 链接
