@@ -45,6 +45,7 @@ client.RealTimeQuery({
 |  3  | EOrderBalanceQuery | 电子面单余量查询接口 |
 |  3  | EOrderClientNumberApply | 电子面单客户号申请接口 |
 |  3  | EOrderClientNumberNotify | 电子面单客户号推送接口 |
+
 注: 模块仅实现基本通讯功能,使用模块时请参考[快递鸟官方接口文档](http://www.kdniao.com/api-all)传参及返回处理。
 
 
